@@ -16,7 +16,7 @@ La tuberculosis es una enfermedad infecciosa provocada por la bacteria *Mycobact
 - `who.csv`: Registro de casos de tuberculosis
 - `population.csv`: Información poblacional por país y año
 
-## Tecnologías utilizadas: Python, Pandas, NumPy, Seaborn, Plotly
+## Tecnologías utilizadas: Python, Pandas, NumPy.
 
 ## Procesamiento y transformación de datos
 
