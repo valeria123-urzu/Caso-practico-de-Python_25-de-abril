@@ -58,4 +58,5 @@ Para representar la información obtenida se desarrollaron distintas gráficas y
 - Visualizaciones interactivas
 - Comparaciones estadísticas por categorías
   
-##Elaborado por: Valeria Monserrat Urzua Leyva
+## Elaborado por: 
+Valeria Monserrat Urzua Leyva
