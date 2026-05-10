@@ -57,4 +57,5 @@ Para representar la información obtenida se desarrollaron distintas gráficas y
 - Gráficas de tendencia de incidencia
 - Visualizaciones interactivas
 - Comparaciones estadísticas por categorías
-Elaborado por: Valeria Monserrat Urzua Leyva
+  
+##Elaborado por: Valeria Monserrat Urzua Leyva
